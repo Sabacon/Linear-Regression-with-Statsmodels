@@ -32,7 +32,7 @@ For this demonstration, I picked `R-squared` are the evaluation metric.
 
 Also known as `coefficient of determination`, $R^{2}$ measures the proportion of variation in the dependent variable explained by the independent variable(s).
 
-$R^{2}$ ranges from `0-1`. The higher the $R^{2}$ the better. An $R^{2}$ of 1 means that the independent variables explain $100\%$ of the variation in the dependent variable.
+$R^{2}$ ranges from `0-1`. The higher the $R^{2}$ the better. An $R^{2}$ of 1 means that the independent variables explain 100% of the variation in the dependent variable.
 
 For more, check out the attached notebook.
 
