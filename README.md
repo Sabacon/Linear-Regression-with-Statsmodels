@@ -13,7 +13,7 @@ I use synthetic data containing money spent on TV, radio and newspaper advertise
 * seaborn
 
 ## Definition
-**Multiple Linear Regression** is a technique that estimates the relationship between 1 continuous dependent variable `y` and 2 or more independent variables `X1,...Xn`.
+**Multiple Linear Regression** is a technique that estimates the relationship between 1 continuous dependent variable `y` and 2 or more independent variables `X1,...,Xn`.
 
 $\text{y} = \beta_{0} + \beta_{1}*X_{1} + ... + \beta_{n}*X_{n}$
 
